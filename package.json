@@ -14,6 +14,8 @@
   "devDependencies": {
     "@webpack-cli/serve": "^1.7.0",
     "css-loader": "5",
+    "mini-css-extract-plugin": "^1.6.0",
+    "postcss-loader": "^3.0.0",
     "style-loader": "2",
     "webpack": "4",
     "webpack-cli": "^4.10.0",
